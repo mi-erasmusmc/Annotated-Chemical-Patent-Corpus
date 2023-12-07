@@ -13,26 +13,27 @@ The Patent corpus is available in 3 different sets:
 
 The following labels are used for the different entity types within the corpus:
 
-"M" for IUPAC.
-"I" for SMILES.
-"Y" for InChi.
-"D" for Trademark.
-"B" for Abbreviation.
-"C" for CAS number.
-"F" for Formula.
-"R" for Registry Number.
-"G" for Generic.
-"T" for Target.
-"Disease" for Disease.
-"MOA" for MOA.
-"OCRERRORSPELL" for Spelling error.
-"OCRERRORLINE" for Spurious line break.
+* "M" for IUPAC.
+* "I" for SMILES.
+* "Y" for InChi.
+* "D" for Trademark.
+* "B" for Abbreviation.
+* "C" for CAS number.
+* "F" for Formula.
+* "R" for Registry Number.
+* "G" for Generic.
+* "T" for Target.
+* "Disease" for Disease.
+* "MOA" for MOA.
+* "OCRERRORSPELL" for Spelling error.
+* "OCRERRORLINE" for Spurious line break.
 
 The annotation.conf file can be used along with the visual.conf file to visualize the data in a local Brat installation.
 
 All patents and annotated entities are publicly available in brat format from the following link.
 
-Citing the Chemical Patent Corpus
+**Citing the Chemical Patent Corpus**
+
 If you have used the corpus in your study, please cite:
 
-Akhondi SA, Klenner AG, Tyrchan C, Manchala AK, Boppana K, Lowe D, Zimmermann M, Jagarlapudi SARP, Sayle R, Kors JA, Muresan S. (2014) Annotated Chemical Patent Corpus: A Gold Standard for Text Mining. PLoS ONE 9(9): e107477. doi:10.1371/journal.pone.0107477
+_Akhondi SA, Klenner AG, Tyrchan C, Manchala AK, Boppana K, Lowe D, Zimmermann M, Jagarlapudi SARP, Sayle R, Kors JA, Muresan S. (2014) Annotated Chemical Patent Corpus: A Gold Standard for Text Mining. PLoS ONE 9(9): e107477. doi:10.1371/journal.pone.0107477_
